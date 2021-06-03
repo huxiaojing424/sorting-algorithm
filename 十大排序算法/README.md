@@ -2,15 +2,18 @@
 
 ## 分类
 
-<img src="排序分类.png" alt="排序分类" style="zoom: 150%;" />
+<img width="397" alt="排序分类" src="https://user-images.githubusercontent.com/66712995/120634003-5cc11780-c49d-11eb-915f-8582169e9ef7.png">
+
 
 ## 按排序依据原则分类（普遍流行）：
 
-<img src="按排序依据原则分类.png" alt="按排序依据原则分类" style="zoom:150%;" />
+![按排序依据原则分类](https://user-images.githubusercontent.com/66712995/120634035-664a7f80-c49d-11eb-94a4-234c48514812.png)
+
 
 ## 各排序算法比较
 
-![表格](表格.png)
+<img width="1251" alt="表格" src="https://user-images.githubusercontent.com/66712995/120634062-6c406080-c49d-11eb-9be8-98e6bb62e4d1.png">
+
 
 ### ==插入排序==
 
